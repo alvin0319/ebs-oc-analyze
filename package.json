@@ -1,0 +1,20 @@
+{
+  "name": "ebs-oc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ebs-oc.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ebs",
+    "ebs-anaylze",
+    "ebs-oc-analyze",
+    "ebs-onlineclass"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
