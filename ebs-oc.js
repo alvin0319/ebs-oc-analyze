@@ -4,7 +4,7 @@ const GET_URLS = {
 	LECTURE_LIST: "https://kyg3.ebsoc.co.kr/common_domain/lecture/api/v1/{school_name}/remotelecture/list/",
 	LEARNING: "https://kyg3.ebsoc.co.kr/common_domain/lecture/api/v1/student/learning",
 	NOTICE_SCHOOL_MAIN_LIST: "https://kyg3.ebsoc.co.kr/common_domain/common/api/v1/noticeCommonMainList",
-	LESSON_LIST: "https://kyg3.ebsoc.co.kr/common_domain/lecture/api/v1/ojhs0204/lesson/list"
+	LESSON_LIST: "https://kyg3.ebsoc.co.kr/common_domain/lecture/api/v1/{school_name}/lesson/list"
 };
 
 const POST_URLS = {
